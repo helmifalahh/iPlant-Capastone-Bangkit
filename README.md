@@ -1,1 +1,1 @@
-# iPlant-Capastone-Bangkit
+# iPlant-Capstone-Bangkit
